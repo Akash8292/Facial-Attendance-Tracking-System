@@ -18,4 +18,4 @@ The system updates attendance automatically, ensuring accuracy, and features a w
 
 ## Screenshot
 
-![Uploading Screenshot 2024-01-24 233708.png…]()
+![Screenshot 2024-01-24 233708](https://github.com/Akash8292/Facial-Attendance-Tracking-System/assets/97883391/c81a545e-1da9-4db9-a86f-833da696981b)
